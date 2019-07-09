@@ -1,17 +1,34 @@
 {
-		"amor":[{
-			"acuario": "Sepa que la sensualidad con la que contará hoy, lo volverá irresistible. Obtendrá el poder de seducción necesario para lograr su objetivo amoroso.",
-			"piscis": "",
-			"aries": "Jornada propicia para pedir perdón a su alma gemela. Entienda que su frialdad y su orgullo le hacen daño a la pareja. Procure cambiar de actitud.",
-			"tauro": "",
-			"geminis": "",
-			"cancer": "",
-			"leo": "",
-			"virgo": "",
-			"libra": "",
-			"escorpio": "",
-			"sagitario": "",
-			"capricornio": ""
+	"amor": [
+		{
+			"acuario": "Sepa que la sensualidad con la que contará hoy, lo volverá irresistible. Obtendrá el poder de seducción necesario para lograr su objetivo amoroso.Sentimentalmente bastante inestable. Se dejará llevar por sus impulsos, sin preguntarse por las consecuencias. Confiese lo que siente.",
+			"piscis": "Resolverá con madurez viejos problemas sentimentales. No deje de lado a sus amigos, Piscis enamorado corre el riesgo de aislarse. Si hace meses que se encuentra solo, alégrese. No se quede encerrado en su casa, ya que pronto aparecerá su enamorado en el lugar menos esperado.",
+			"aries": "Complicado para las relaciones muy íntimas. Tal vez le hagan reclamos por su actitud distante. Problemas de convivencia. Acérquese a ese amigo que hace días le está solicitando ayuda. Sepa que la calidez de su afecto le nutrirá el espíritu y lo hará sonreír de nuevo.Jornada propicia para pedir perdón a su alma gemela. Entienda que su frialdad y su orgullo le hacen daño a la pareja. Procure cambiar de actitud.",
+			"tauro": " El futuro de su relación amorosa queda garantizado. Ponga las cartas sobre la mesa porque Venus en signo afín está de su parte. Será el momento ideal para encontrar a su alma gemela, si es que está soltero. En caso de que ya la haya encontrado, deberá mejorar el vínculo que tiene.",
+			"geminis": "No permita que los celos ajenos le traigan complicaciones en su relación amorosa. Si existe algún problema con su alma gemela háblelo directamente con ella.",
+			"cancer": "Venus en su signo le da vía libre en el amor. Alguien lo seduce. Insistirá e insistirá... nada perderá con amar y ceder. Hoy podrá amigarse con ese familiar con el que hace días ha tenido un pequeño conflicto. Procure llamarlo y pactar una salida juntos para remediar lo sucedido.",
+			"leo": " La economía pasa a primer plano y lo afectivo queda un poco en sombra. Momento para perdonar y conocer gente interesante.Será una perfecta ocasión para disfrutar con su alma gemela los buenos momentos y relajarse. Destine la tarde para compartir con ella.",
+			"virgo": "Venus juega a su favor. Una sensación de constante felicidad lo acompaña. Etapa de acercamiento y plenitud. Gran romanticismo.Momento oportuno para definir si quiere tener relación duradera y madura con esa persona que conoció. Antes que nada, pregúntese qué es lo que usted busca en el amor.",
+			"libra": "Responsabilidades que se suman y no le dan respiro. La economía familiar prospera y eso los pone a todos de muy buen humor.No se desespere si las cosas no le salen, ya que hoy estará un poco irritable. Evite las peleas con su enamorado, de lo contrario, ambos podrían salir lastimados.",
+			"escorpio": "En posesión de ese afecto con lo que tanto soñó. En armonía con su corazón y, si no tiene pareja, a punto de hallar con quien compartir. Aproveche al máximo en el amor, pero sepa que debe cuidarse de no ser presa de engaños, mentiras o confusiones. Ponga atención con la gente que se relaciona.",
+			"sagitario": "Una relación no debe convertirse en una carrera de obstáculos. Venus en Cáncer vuelve complicado lo que suele ser sencillo. Transitará por un nuevo ciclo de renovación en la relación junto a su alma gemela. Después de tantos problemas, descubrirán el verdadero significado del amor.",
+			"capricornio": "Con el buen influjo de Venus en signo opuesto se lleva mejor que nunca con los suyos. Reuniones y salidas en grupo lo hacen muy feliz.Prepárese, ya que transitará excelentes momentos de felicidad con su alma gemela. El día será destinado al amor exclusivamente, no lo desperdicie."
+		}
+	],
+	"trabajo": [
+		{
+			"acuario": "Caiga en la realidad y ponga en orden los proyectos laborales que fueron postergados. Si tiene que negociar, el mejor recurso será utilizar la diplomacia.Trabajo estable y continua expansión en lo que a su vocación concierne. Logros para los que trabajan por su cuenta.",
+			"piscis": "Vaya preparado a su trabajo, ya que su jefe le planteará nuevas métricas para ese proyecto. Seguramente no esté de acuerdo, pero necesitará de su apoyo.Perspectivas razonables. De todas las ofertas que reciba, sólo algunas valdrán la pena; descarte las que sean dudosas.",
+			"aries": "Momento para aplicar un nuevo estilo en los negocios que está por encaminar. Sepa que con el tiempo, podrá incrementar sus ingresos monetarios.Excelente. Nada queda librado al azar. Evite imponer su punto de vista y todo saldrá perfecto.",
+			"tauro": "Establezca sus límites y sostenga en el tiempo su posición. Si es ejecutivo sacará partido de las oportunidades.Tiempo oportuno para volcar todas sus iniciativas laborales sobre los nuevos proyectos que se avizoran. Esté preparado y no deje pasar dicha oportunidad.",
+			"geminis": " Sería bueno que incorpore nuevas ideas a su labor, de esta forma, renovará su prestigio profesional y podrá emprender muchos de los proyectos que tienen en mente.Rápido, seguro y con voluntad de ganar. Contrólese si lo provocan, nada de estallidos.",
+			"cancer": " La presión en este ámbito crece y afecta sus nervios. Trate de cumplir con todo trabajo pactado. Si está por realizar alguna compra importante o concretar un negocio, deberá ser muy precavido. En caso que desconozca del tema, asesórese de antemano.",
+			"leo": "Excelentes acuerdos, gran rendimiento en el trabajo y buena energía para el estudio. Prosperidad.Evite resistirse y permita que su mente rápida se destaque en la comunicación. Muéstrese relajado, ya que la suerte laboral estará de su lado.",
+			"virgo": "Intente dar una buena impresión, sobre todo en actividades nuevas. Los negocios evolucionan despacio. Comience a manejarse con independencia, así logrará generar valiosos acuerdos comerciales. Aunque trabaje en equipo, empiece a tomar sus propias decisiones.",
+			"libra": "Además de su reconocida capacidad lo acompaña la suerte. No dude porque lo que decida será lo acertado.Sepa que gracias a esos negocios iniciados haces meses, hoy obtendrá una retribución monetaria inesperada. Sea cuidadoso en el momento que la invierta.",
+			"escorpio": " Lentos tratos comerciales, ya se trate de vender productos o servicios se complicará. Preste atención a los plazos.Sepa que se acerca una etapa excelente para invertir y poner en orden el sistema financiero, caso contrario, a fin de año terminará demasiado endeudado.",
+			"sagitario": "Actúe con precisión y no deje pasar ninguna oportunidad. Deje que esa sociedad madure, les irá muy bien.Después de tanto años y esfuerzos que realizó, al fin recibirá el reconocimiento que se merece por su desempeño laboral diario. Hágase el sorprendido.",
+			"capricornio": "La presión externa se vuelve intolerable pero usted, acostumbrado, resiste. Si es tenaz tarde o temprano triunfará.Demuestre sin temor su conocimiento y capacidad frente a las exigencias que le demanda su puesto. Si existe una búsqueda interna en su empresa, postúlese."
 		}
 	]
 }
